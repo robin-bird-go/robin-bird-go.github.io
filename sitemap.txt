@@ -1,3 +1,4 @@
+https://robin-bird-go.github.io/post/git%E7%AC%94%E8%AE%B0.html
 https://robin-bird-go.github.io/post/hello-world.html
 https://robin-bird-go.github.io/post/blog%E9%85%8D%E7%BD%AE%E8%B8%A9%E5%9D%91%E8%BF%87%E7%A8%8B.html
 https://robin-bird-go.github.io/about/index.html
