@@ -10,11 +10,11 @@ https://robin-bird-go.github.io/post/hello-world.html
 https://robin-bird-go.github.io/thoughts/index.html
 https://robin-bird-go.github.io/about/index.html
 https://robin-bird-go.github.io/
-https://robin-bird-go.github.io/tags/git/
 https://robin-bird-go.github.io/tags/blog/
+https://robin-bird-go.github.io/tags/git/
 https://robin-bird-go.github.io/tags/thoughts/
 https://robin-bird-go.github.io/tags/book-note/
-https://robin-bird-go.github.io/categories/git/
 https://robin-bird-go.github.io/categories/blog/
+https://robin-bird-go.github.io/categories/git/
 https://robin-bird-go.github.io/categories/thoughts/
 https://robin-bird-go.github.io/categories/book-note/
